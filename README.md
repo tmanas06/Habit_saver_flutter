@@ -38,12 +38,12 @@ HabitSaver allows users to:
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/tmanas06/Habit_saver_flutter
 ```
 
 2. Navigate to the project folder:
 ```bash
-cd habit_saver
+cd Habit_saver_flutter
 ```
 
 3. Install dependencies:
