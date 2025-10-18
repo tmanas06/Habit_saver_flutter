@@ -61,6 +61,7 @@ Code Structure
 lib/
 └── main.dart
 ```
+---
 
 main.dart: Contains the main app, home page, state management, and UI components.
 ---
@@ -133,3 +134,6 @@ Click the sun/moon icon in the AppBar → Toggle light/dark theme.
 
 Screenshots
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c56b9a2-ba96-4e93-8795-96dbf880c249" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05da136c-0b02-4b26-a760-853eaf299352" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1d8e6091-89c5-4d2e-bd53-34b55775450a" />
