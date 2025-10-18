@@ -108,7 +108,9 @@ addHabit(): Adds input from TextField to habits list and clears input.
 
 build(BuildContext context): Builds the UI hierarchy with Column, Padding, Expanded, and ListView.
 
-Flutter Concepts Used
+---
+
+## Flutter Concepts Used
 
 StatefulWidget & setState(): For dynamic UI updates.
 
@@ -124,7 +126,7 @@ Card & ListTile: Display habits neatly.
 
 IconButton: Dark/light mode toggle.
 
-Usage
+## Usage
 
 Enter a habit in the input field.
 
